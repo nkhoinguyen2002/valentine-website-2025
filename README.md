@@ -85,8 +85,8 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
+valentineName: "Su"                    // Your Valentine's name
+pageTitle: "Thân gửi Su? 💝" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
@@ -97,14 +97,14 @@ floatingEmojis: {
 // Questions and Buttons
 questions: {
     first: {
-        text: "Do you like me?",                   // First question
-        yesBtn: "Yes",                             // Yes button text
-        noBtn: "No",                               // No button text
-        secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
+        text: "Em thích anh không ?",                   // First question
+        yesBtn: "Có",                             // Yes button text
+        noBtn: "Hong",                               // No button text
+        secretAnswer: "Em hổng thích anh, em yêu anh !❤️"  // Hidden message
     },
     second: {
-        text: "How much do you love me?",          // Second question
-        startText: "This much!",                   // Text before percentage
+        text: "Yêu nhìu hơm?",          // Second question
+        startText: "Từng này!",                   // Text before percentage
         nextBtn: "Next ❤️"                         // Next button text
     },
     third: {
@@ -123,8 +123,8 @@ loveMessages: {
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person...",     // Celebration title
-    message: "Now come get your gift...",          // Celebration message
+    title: "Quá đã pepsi ơi, remember bout the past mình lượn lờ làm wen...",     // Celebration title
+    message: " Tóc tai bù xù, em thích gì ạ ?...",          // Celebration message
     emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
 }
 
